@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 new1.txt in git101
 
 user1 change
+=======
+new1 in git102 
+>>>>>>> edab4c5a36c99799f9f089910e14da5d7b294786
 
+user change info in new1.txt agian
